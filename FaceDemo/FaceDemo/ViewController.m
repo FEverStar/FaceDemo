@@ -11,7 +11,6 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController ()
-@property (nonatomic, strong) NSArray *features;
 @property (nonatomic, strong) UIImageView *imgView;
 @end
 
